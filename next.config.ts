@@ -17,7 +17,7 @@ const nextConfig: NextConfig = {
     ignoreDuringBuilds : true,
   },
   experimental: {
-    ppr : 'incremental'
+    ppr : 'incremental',
   },
   devIndicators :{
     appIsrStatus : true , 
